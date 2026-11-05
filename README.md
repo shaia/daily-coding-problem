@@ -6,7 +6,7 @@ All 1,853 Daily Coding Problem interview questions (#1–#1857, sent December 20
 
 [`dcp-solutions.ipynb`](dcp-solutions.ipynb) has one section per problem, in number order:
 
-```
+```markdown
 ### Problem #1
 **Easy** · Google · 2019-12-18
 
