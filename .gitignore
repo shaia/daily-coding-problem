@@ -1,0 +1,11 @@
+# IDE
+.idea/
+.vscode/
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+
+# Temp file written while saving the notebook
+*.ipynb.tmp
